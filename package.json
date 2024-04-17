@@ -1,6 +1,6 @@
 {
   "name": "@laibamarrie/word-counter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "I am creating a word counter using TypeScript, Node.js, and Inquirer.",
   "main": "index.js",
   "type": "module",
